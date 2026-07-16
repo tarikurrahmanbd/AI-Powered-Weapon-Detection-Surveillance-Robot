@@ -4,6 +4,13 @@ An advanced, real-time security and surveillance robot system integrating state-
 
 ---
 
+## 👤 Developer & Creator
+*   **Lead Developer & Inventor:** **Tarikur Rahman**
+*   **GitHub:** [@tarikurrahmanbd](https://github.com/tarikurrahmanbd)
+*   **Portfolio:** [yourtarikur.netlify.app](https://yourtarikur.netlify.app)
+
+---
+
 ## 🚀 Features
 
 *   **Next-Gen Detection:** Powered by the ultra-fast **YOLOv12** deep learning model (ONNX and PyTorch formats included).
